@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    color: red;
+}
+p{
+    font-size: 36px;
+    color: white;
+    background-color: red;
+    font-family: "Comic Sans MS";
+}
+body {
+    background: black;
+}
