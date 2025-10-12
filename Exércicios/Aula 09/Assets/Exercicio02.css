@@ -1,0 +1,57 @@
+body {
+    background-color: crimson;
+    padding: 0;
+    margin: 0;
+}
+table, td, th{
+    border: 1px solid black;
+    border-collapse: collapse;
+
+
+}
+.um {
+    background-color: darkblue;
+    color: lawngreen;
+
+}
+.dois {
+    background-color: darkblue;
+    color: lightblue;
+
+}
+.tres {
+    background-color: darkblue;
+    color: yellow;
+
+}
+.quatro {
+    background-color: darkblue;
+    color: white;
+
+}
+.cinco {
+    background-color: darkblue;
+    color: red;
+
+}
+.numero {
+
+    background-color: deepskyblue;
+    color: darkblue;
+
+
+}
+th {
+    background-color: darkblue;
+    color: cornflowerblue;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 4.5px;
+}
+.bota {
+    background-color: lightgray;
+    color:darkblue;
+    text-align: left;
+
+
+}
